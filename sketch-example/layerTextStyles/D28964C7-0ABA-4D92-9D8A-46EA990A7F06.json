@@ -1,0 +1,45 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D28964C7-0ABA-4D92-9D8A-46EA990A7F06",
+  "name": "Red Hat Regular 21 pt Style",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.8,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D28964C7-0ABA-4D92-9D8A-46EA990A7F06",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "RedHatText-Regular",
+            "size": 20
+          }
+        },
+        "ligature": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

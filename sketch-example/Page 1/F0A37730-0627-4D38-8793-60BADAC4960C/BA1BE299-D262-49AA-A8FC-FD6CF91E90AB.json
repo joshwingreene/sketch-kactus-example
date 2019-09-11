@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "BA1BE299-D262-49AA-A8FC-FD6CF91E90AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAF7B963-C594-467A-BC12-C8A46EBF3E4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "391C2DBA-6B5F-4C22-94E8-77D37482D35A",
+    "height": 20,
+    "width": 94,
+    "x": 118,
+    "y": 535
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Recommended Career",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "581A6DCC-C477-4ADB-914C-EB517453E6B1",
+      "overrideName": "8EFAEEC1-140B-4D12-A4F0-2EAFE4D909DB_stringValue",
+      "value": "Business Analyst"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E500F1E7-7CB7-4A03-92E5-0FAD3C20629E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AF22491-2E06-4AE2-8E4A-053AC73F0AAE",
+  "verticalSpacing": 0
+}

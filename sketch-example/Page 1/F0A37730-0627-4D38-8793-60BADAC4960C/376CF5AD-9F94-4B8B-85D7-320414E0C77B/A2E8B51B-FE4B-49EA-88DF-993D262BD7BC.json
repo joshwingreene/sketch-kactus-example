@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A2E8B51B-FE4B-49EA-88DF-993D262BD7BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "952219FB-027B-43BB-857B-250A0E212E42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "582CAC87-99DD-4ECB-AB2A-D7E39641BCED",
+    "height": 117,
+    "width": 136,
+    "x": 322,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Event Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E92B4F05-429C-46EA-8230-93C54A769F8C",
+      "overrideName": "CC01A5BD-2BC0-40D1-A354-BFB721D56C3F_stringValue",
+      "value": "How to Pay for College"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54F8B1B1-74FF-420C-BB2E-4383FC40C064",
+      "overrideName": "39BE0B23-E8B4-4601-BB9B-3F2129938352_stringValue",
+      "value": "Sat, Nov 16 at 10 AM"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A2F1D10-45FD-4471-A400-DB38D1CC2E70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ACA3CEA7-1B39-4DEF-BC8B-47206CFA1F40",
+  "verticalSpacing": 0
+}

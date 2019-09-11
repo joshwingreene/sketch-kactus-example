@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6D6104C5-1216-45E4-9B69-AC519B6D7F63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC75EA95-AA3F-477C-8EEF-9CDBBCEE7336",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E361A224-B75A-4F99-AD00-D60896287CAF",
+    "height": 117,
+    "width": 136,
+    "x": 161,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Event Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63153258-B08B-4880-AA59-97AC61DC3ACD",
+      "overrideName": "CC01A5BD-2BC0-40D1-A354-BFB721D56C3F_stringValue",
+      "value": "The Various Paths You Can Follow"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E21FDCD-F247-4CBF-9EDF-59B4A44D3855",
+      "overrideName": "39BE0B23-E8B4-4601-BB9B-3F2129938352_stringValue",
+      "value": "Fri, Oct 18 at 7 PM"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B27BF371-4BD1-4A45-923E-2684BF45E831",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ACA3CEA7-1B39-4DEF-BC8B-47206CFA1F40",
+  "verticalSpacing": 0
+}

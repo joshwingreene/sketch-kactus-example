@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C58CA343-BF01-4E4F-BD41-850582F51C54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E0A56F5-0A12-4B8A-8826-69C990EF900B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB886A2D-89E6-4C33-B4F2-5EB88DA30CC2",
+    "height": 20,
+    "width": 94,
+    "x": 220,
+    "y": 535
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Recommended Career",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "581A6DCC-C477-4ADB-914C-EB517453E6B1",
+      "overrideName": "8EFAEEC1-140B-4D12-A4F0-2EAFE4D909DB_stringValue",
+      "value": "Product Manager"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65BEAB41-CA51-409B-AB83-0C2107787487",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1AF22491-2E06-4AE2-8E4A-053AC73F0AAE",
+  "verticalSpacing": 0
+}

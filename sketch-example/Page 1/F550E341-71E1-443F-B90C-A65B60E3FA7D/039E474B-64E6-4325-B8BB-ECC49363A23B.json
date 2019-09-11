@@ -1,0 +1,110 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "RedHatText-Medium",
+              "size": 13
+            }
+          },
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 19,
+        "location": 0
+      }
+    ],
+    "string": "Take the assessment"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "039E474B-64E6-4325-B8BB-ECC49363A23B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D5CB231-6913-49A1-9D45-4304AFC5D18A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27593581-9E20-4218-966B-8E75D79CCA62",
+    "height": 17,
+    "width": 127,
+    "x": 110,
+    "y": 467
+  },
+  "glyphBounds": "{{0, 3}, {127, 11}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Take the assessment",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CD0AE23-07E9-4EB2-B624-A42BC67FA99C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01176470588235294,
+          "green": 0.0196078431372549,
+          "red": 0.0196078431372549
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "38A17177-4303-4BFC-B63F-12AA5FD72CD0",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "112478C9-0B35-4751-BEFB-CB403274BB9E",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "RedHatText-Medium",
+            "size": 13
+          }
+        },
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}
